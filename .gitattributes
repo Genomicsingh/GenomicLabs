@@ -1,2 +1,145 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genomic Lab Interface</title>
+</head>
+<body>
+    <Header>
+
+      <b><h1 align="middle">Genomic Labs</h1></b>
+          <b><h2 align="middle">Best Lab Located Near You with Best Facilities...</h2></b>
+         <br />   
+      <img src="https://media.istockphoto.com/id/1346675527/photo/medical-science-laboratory-portrait-of-beautiful-black-scientist-looking-under-microscope.jpg?s=612x612&w=0&k=20&c=xDRiQ1uX5bg0k3mU9SnsOIM6DSeeex-N3uFVSDgRt1w=" height="200"/>
+      <img src="https://t3.ftcdn.net/jpg/02/97/60/84/360_F_297608448_qgj5S64AZrw55Z1chKbtAf7lRqEf7IWo.jpg" height="200" width="300"/>
+      <img src="https://t4.ftcdn.net/jpg/00/65/89/45/360_F_65894588_3arzYUM4mp5nmUK3PRq02G2VKxAegifZ.jpg" height="200"/>
+         <br /> 
+          <table>
+           <caption><B>WET LAB TESTS</B></caption>
+            <tr>
+              <th>
+                Medical Test
+              </th>  
+                <th>
+                 | Requirements Prior Test
+                </th>
+                  <th>
+                   | Cost
+                  </th>
+            </tr>  
+            <tr>
+                  <td>
+                    <b>1 Widal</b>
+                  </td>
+                  <td>
+                     No Prior Requirements
+                  </td> 
+                  <td>
+                     1100rs
+                  </td>
+            </tr>
+            <tr>
+                  <td>
+                    <b>2 Blood Test</b> 
+                  </td>
+                  <td>
+                     empty Stomach
+                  </td>
+                  <td>
+                     800rs
+                  </td>
+            </tr>
+            <tr>
+                  <td>
+                     <b>
+                       3 Urine Test
+                     </b>
+                  </td>
+                  <td>
+                      wash your intimate area
+                  </td>
+                  <td>
+                         500rs
+                </td>
+            </tr>
+            <tr>
+                    <td>
+                       <b>4 Dengue Test</b>
+                    </td>
+                      <td>
+                            No Prior Requirements
+                       </td>
+                    <td>
+                          2100rs
+                    </td>
+            </tr>
+          </table>
+               <br />
+    </Header>
+
+
+    <main>
+       <h3 align="middle"><B>ABOUT</B></h3>
+     
+       <p><b>Genomic labs, also known as genetic testing labs or molecular diagnostics labs, are facilities that specialize in the analysis of genes, DNA, and RNA to diagnose and predict genetic disorders, diseases, and traits. These labs use advanced technologies such as next-generation sequencing (NGS), polymerase chain reaction (PCR), and microarray analysis to examine genetic material.</b></p> 
+
+       <h4 align="middle"><B>WHY GENOMIC LABS?</B></h4>
+
+         <P align="middle">1. SAMPLES RESULTS WITHIN 2 HOURS</P>
+         <P align="middle">2. HOME SAMPLING ALSO AVAILABLE</P>
+         <P align="middle">3. TRACK SAMPLING WITH OUR APPLICATION</P>
+         <P align="middle">4. GET DIGITAL AS WELL AS PHYSICS REPORT HOME DILIVERED</P>
+    </main>
+
+    <Footer>
+    
+        <hr /> 
+
+        <h4 align="middle"><b>* FILL FORM FOR SAMPLING</b></h4>
+
+          <input type="text" placeholder="Enter Your Name">
+        <br />
+           <input type="password" placeholder="Enter Strong Password">
+        <br />
+            <input type="password" placeholder="Rewrite Your Password">
+        <br />
+            <select name="city">
+            <option value="Delhi">Delhi</option>
+            <option value="Mumbai">Mumbai</option>
+            <option value="Pune">Pune</option>
+            <option value="Amitsar">Amritsar</option>
+            <option value="Jalandar">Jalandar</option>
+            <option value="Karnal">Karnal</option>
+            <option value="Noida">Noida</option>
+            <option value="Ahemdabad">Ahemdabad</option>
+            <option value="Nagpur">Nagpur</option>
+            <option value="Patna">Patna</option>
+            </select>
+             
+        <br />
+
+            <textarea name="Feedback" id="101" placeholder="PLEASE ENTER YOUR VALUABLE FEEDBACK">FEEDBACK</textarea>
+
+        <br />
+            <hr />
+
+         <h5 align="middle"><b>CONNECT TO OUR SOCIAL MEDIA HANDLES..</b></h5>
+            <div>
+              <ol>
+                <li><a href="https://www.instagram.com/genomic_singh/?utm_source=ig_web_button_share_sheet" target="_main"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="50"></a></li>
+        <br />
+                <li><a href="https://www.facebook.com/OfficialDigiLocker/" target="_main"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/768px-Facebook_icon.svg.png" height="50"></a></li>
+              
+        <br />
+                 <li><a href="www.linkedin.com/in/manpreet-singh-4797b3251" target="_main"><img src="https://i.pinimg.com/736x/0c/78/d0/0c78d03cbfa19d5f3d7ad1b6e49f957b.jpg" height="100"></a></li>
+               </ol> 
+            </div>
+
+
+
+    </Footer>
+
+    
+</body>
+</html>
